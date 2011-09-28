@@ -1,12 +1,11 @@
 [Oo]bj/
 [Bb]in/
+_[Rr]e[Ss]harper.meep/
 *.suo
 *.user
 /TestResults
 *.vspscc
 *.vssscc
-*.dll
-*.exe
 *.pdb
 *.bak
 *.log
