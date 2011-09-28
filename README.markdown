@@ -1,0 +1,1 @@
+This project is geared towards reading sports activity data from devices (gps-enabled or otherwise) and converting it into formats necessary for publishing to various websites.
