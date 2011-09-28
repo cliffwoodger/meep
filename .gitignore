@@ -6,6 +6,8 @@ _[Rr]e[Ss]harper.meep/
 /TestResults
 *.vspscc
 *.vssscc
+*.dll
+*.exe
 *.pdb
 *.bak
 *.log
